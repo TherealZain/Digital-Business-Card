@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Montserrat:wght@600&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin:0 auto;
+    text-align: center;
+    color: #F5F5F5;
+    font-family: 'Inter', sans-serif;
+    overflow: auto;
+}
+
+.wholeApp {
+    background-color: #1A1B21;
+   border-left: 300px solid #23252C;
+   border-right: 300px solid #23252C;
+   border-top: 40px solid #23252C;
+   border-bottom: 40px solid #23252C;
+   min-width: 1150px;
+   transform: scale(0.85);
+   outline: 150px solid #23252C;
+
+}
+
+img {
+    display: block;
+    width: 350px;
+    height: 400px;
+    justify-content: center;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    
+}
+
+.Student {
+    text-align: center;
+    font-size: 18px;
+    overflow: scroll;
+    color: #F3BF99;
+    margin: 10px;
+}
+
+button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+    margin-top: 30px;
+    width: 32%;
+    background-color: #374151;
+    border-radius: 30px;
+    overflow: hidden;
+    font-size: 20px;
+}
+
+#linkedIn {
+    background-color: #5093E2;
+
+}
+
+#linkedInIcon {
+    margin: 0;
+    margin-left: 20px;
+    width: 30px;
+}
+
+#linkedText {
+    position: absolute;
+    left: 50%;
+}
+
+#EmailIcon {
+    margin: 0;
+    margin-left: 20px;
+    width: 30px;
+}
+
+
+
+
+
+
+h3 {
+    display: block;
+    margin-right: 180px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    min-width: 10px;
+
+}
+
+.para{
+    text-align: center;
+}
+
+.realPara {
+    display: inline-block;
+    
+}
+
+p{
+    text-align: left;
+    min-width: 200px;
+    max-width: 315px;
+    font-size: 15px;
+    margin-right: 5px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.footImages{
+    display:inline-flex;
+    background-color: #161619;
+    margin: 10px;
+    padding: 40px;
+    text-align: center;
+    justify-content: center;
+}
+.icons {
+    margin: 30px 85px;
+   
+}
+
+
+
+
+
+
